@@ -1,3 +1,5 @@
+// გამოაცხადეთ ორი ცვლადი , მიანიჭეთ მნიშვნელობები 87 და 65, დაბეჭდეთ (console.log()) ის რიცხვი რომელიც
+//  მეტია(გამოიყენეთ if else)
 // const a = 87 
 // const b = 65
 // if (a>b)
@@ -30,4 +32,4 @@ const phones =[
 console.log(phones)
 // დაბეჭდეთ phones მასივის პირველი და ბოლო ელემენტი ( ცალ-ცალკე console.log ეგში)
 console.log (phones[0])
-console.log (phones[4])
+console.log (phones)
