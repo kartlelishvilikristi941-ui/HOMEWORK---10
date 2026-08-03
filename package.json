@@ -1,0 +1,23 @@
+{
+  "name": "homework---10",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/kartlelishvilikristi941-ui/HOMEWORK---10#readme",
+  "bugs": {
+    "url": "https://github.com/kartlelishvilikristi941-ui/HOMEWORK---10/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartlelishvilikristi941-ui/HOMEWORK---10.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "learning.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.19.0"
+  }
+}

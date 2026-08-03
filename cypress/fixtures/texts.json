@@ -1,0 +1,12 @@
+{
+   "NewUserSignup": "New User Signup!",
+ "accountInformation":"Enter Account Information",
+"newsletter":"Sign up for our newsletter!",
+"partners":"Receive special offers from our partners!",
+"creatAccount":"Account Created!",
+"LoginAccount":"Login to your account",
+"LoggedInasUsername":"Logged in as",
+"deleteAccount":"ACCOUNT DELETED!",
+"incorrectAlarm":"Your email or password is incorrect!"
+
+}
